@@ -4,4 +4,4 @@ Organization community-health files for SILENCE-OBJECTS. Contains `profile/`.
 
 ## License
 
-Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+Closed licence. All rights reserved; no open-source licence is granted. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
