@@ -1,3 +1,12 @@
+
+`Copyright (c) 2026 Ewa Tchórzewska (osoba fizyczna). Wszelkie prawa zastrzeżone.`
+
+`Podmiot praw
+`Jedynym podmiotem autorskich praw majątkowych do kodu źródłowego, apikacji, kodu , produktow, obrazow,  protokołów,`
+`promptów, benchmarków, wyników badań, dokumentacji i zasobów towarzyszących`
+`(dalej: „Materiał") jest Ewa Tchórzewska jako osoba fizyczna („Owner").`
+
+
 SILENCE.OBJECTS — Autorstwo i nazewnictwo / Authorship and naming
 Copyright (c) 2026 Ewa Tchórzewska.
 
@@ -23,4 +32,6 @@ Ownera; nie są (jeszcze) zarejestrowanymi znakami towarowymi i nie są
 oznaczane symbolem ®.
 
 Całość repozytorium objęta jest licencją zamkniętą (LICENSE). Komponenty osób
-trzecich, jeśli występują, wymienia THIRD_PARTY_NOTICES.md wraz z ich licencjami.
+trzecich, jeśli występują, wymienia THIRD_PARTY_NOTICES.md wraz z ich Copyright (c) 2026 Ewa Tchórzewska (osoba fizyczna). Wszelkie prawa zastrzeżone.`
+Copyright (c) 2026 Ewa Tchórzewska (osoba fizyczna). Wszelkie prawa zastrzeżone.`
+
