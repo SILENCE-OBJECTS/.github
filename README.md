@@ -3,8 +3,8 @@
 
 `Podmiot praw
 `Jedynym podmiotem autorskich praw majątkowych do kodu źródłowego, apikacji, kodu , produktow, obrazow,  protokołów,`
-`promptów, benchmarków, wyników badań, dokumentacji i zasobów towarzyszących`
-`(dalej: „Materiał") jest Ewa Tchórzewska jako osoba fizyczna („Owner").`
+`promptów, benchmarków, wyników badań, dokumentacji i zasobów
+'jest Ewa Tchórzewska jako osoba fizyczna („Owner").`
 
 
 SILENCE.OBJECTS — Autorstwo i nazewnictwo / Authorship and naming
