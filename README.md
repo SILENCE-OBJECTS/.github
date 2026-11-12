@@ -1,7 +1,26 @@
-# .github
+SILENCE.OBJECTS — Autorstwo i nazewnictwo / Authorship and naming
+Copyright (c) 2026 Ewa Tchórzewska.
 
-Organization community-health files for SILENCE-OBJECTS. Contains `profile/`.
+Autorska relacja / Authorship chain
 
-## License
+  Soft Noire Design → System Silence → Sixty Seconds of Nothing
+  → Silence Protocol → φ Proportion Framework
 
-Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+  Soft Noire Design          autorska marka parasolowa / authorial umbrella brand
+  System Silence             system zasad produktowych / product principles
+  Sixty Seconds of Nothing   opcjonalne doświadczenie wejścia / optional entry experience
+  Silence Protocol           specyfikacja zachowania UI / UI behaviour specification
+  φ Proportion Framework     proporcje i materializacja tokenów / proportions and token materialisation
+
+Nazewnictwo / Naming
+
+  Soft Noire               marka autorska (Soft Noire Design, Soft Noire Mental Studio)
+  Soft-Noir                publiczna nazwa design systemu / public name of the design system
+  soft-noir, SoftNoir*     identyfikatory techniczne w kodzie — nie są zmieniane
+
+Autorką wymienionych elementów jest Ewa Tchórzewska. Nazwy są oznaczeniami
+Ownera; nie są (jeszcze) zarejestrowanymi znakami towarowymi i nie są
+oznaczane symbolem ®.
+
+Całość repozytorium objęta jest licencją zamkniętą (LICENSE). Komponenty osób
+trzecich, jeśli występują, wymienia THIRD_PARTY_NOTICES.md wraz z ich licencjami.
